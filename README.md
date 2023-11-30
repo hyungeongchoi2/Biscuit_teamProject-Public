@@ -7,10 +7,6 @@
 
 > 
 
-* 데모비디오 주소 : https://youtu.be/MqECvmNpCtI
-
-> 
-
 * 프로젝트 PPT : https://github.com/anjxxyi/Biscuit_teamProject-Public/blob/develop/process/file/Biscuit_final-project_PPT.pdf
 
 > 
